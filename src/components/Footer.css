@@ -1,0 +1,16 @@
+.main-div-footer {
+  background-color: rgb(56, 54, 54);
+  color: white;
+  height: 6vh;
+  align-items: center;
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+.main-div-footer p{
+    margin-top: 10px;
+}

@@ -1,0 +1,40 @@
+.main-div-add-employee-form {
+  align-items: center;
+  margin: auto;
+  overflow: scroll;
+  height: 80vh;
+  overflow-x: hidden;
+}
+.first-main-div-add-employee-form {
+  margin: auto;
+  width: 40vw;
+}
+input[type=text],input[type=email],input[type=number],textarea  {
+  width: 80%;
+  padding: 3px;
+}
+
+.first-main-div-add-employee-form div {
+  margin-top: 10px;
+}
+.dropdown-div-add-employee-table {
+  display: flex;
+  flex-wrap: wrap;
+}
+.checkBoxDiv {
+  margin-left: 20px;
+}
+.two-button-input-form{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.two-button-input-form button{
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    background-color: rgb(65, 58, 58);
+    border: none;
+    border-radius: 20px;
+    color: white;
+}

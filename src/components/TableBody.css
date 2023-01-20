@@ -1,0 +1,44 @@
+.main-div-table-body{
+    width: 80vw;
+    align-items: center;
+    margin-left: 10vw;
+    margin-top: 6vh;
+}
+
+.add-employee-button-table-body,.defaultButton{
+    padding: 10px;
+    background-color: rgb(136, 136, 136);
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 15px;
+}
+.add-employee-button-table-body,.defaultButton :hover{
+    background-color: rgb(101, 100, 100);
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 20px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.first-div-table-body {
+    display: flex;
+    justify-content: space-between;
+}
+.table-body-content-div{
+  height: 52vh;
+  overflow: scroll;
+  
+}

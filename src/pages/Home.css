@@ -1,0 +1,13 @@
+.page-button{
+    display: flex;
+    width: 80vw;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.page-next-btn,.page-prev-btn{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
